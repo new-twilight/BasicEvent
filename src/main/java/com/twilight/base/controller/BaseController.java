@@ -1,4 +1,4 @@
 package com.twilight.base.controller;
 
-public class BaseController {
+public class BaseController {//
 }
